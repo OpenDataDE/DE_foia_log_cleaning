@@ -1,0 +1,2 @@
+"0","# Write to a .csv in the Data_Transformations folder"
+"0","write_csv(foia_log_OMB, here(""Data_Transformations"", ""OMB_FOIA_log.csv""))"

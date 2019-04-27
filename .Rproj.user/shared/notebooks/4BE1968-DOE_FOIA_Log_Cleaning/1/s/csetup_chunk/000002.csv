@@ -1,0 +1,8 @@
+"0","knitr::opts_chunk$set(echo = TRUE)"
+"2","Warning message:
+"
+"2","In as.POSIXlt.POSIXct(x, tz) :"
+"2","
+ "
+"2"," unknown timezone 'zone/tz/2018i.1.0/zoneinfo/America/New_York'
+"

@@ -1,0 +1,4 @@
+"0","DOE_dfs_columns %>% "
+"0","  filter(! is.na(Name)) %>% "
+"0","  select(-Name) %>% "
+"0","  spread(key = Year, value = Class)"

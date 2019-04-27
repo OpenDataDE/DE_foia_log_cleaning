@@ -1,0 +1,3 @@
+"0","# Read in the `OMB FOIA TRACKING 032719.xlsx` file from the `Data` folder in the"
+"0","# project directory and then store it in an object called foia_log_OMB"
+"0","foia_log_OMB <- read_excel(here(""Data/Office of Management and Budget"", ""OMB FOIA TRACKING 032719.xlsx""))"

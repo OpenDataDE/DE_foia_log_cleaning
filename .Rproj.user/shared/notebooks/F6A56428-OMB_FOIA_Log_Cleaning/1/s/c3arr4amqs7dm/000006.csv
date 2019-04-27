@@ -1,0 +1,2 @@
+"0","foia_log_OMB %>%                              # Use the data frame called foia_log_OMB AND THEN"
+"0","  count(Assigned_to)                          # count each unique value in the field `Assigned_to`"

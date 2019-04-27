@@ -1,0 +1,10 @@
+"0","DOE_foia_log_2014 %>% 
+  union(DOE_foia_log_2015) %>% 
+  union(DOE_foia_log_2016) %>% 
+  union(DOE_foia_log_2017) %>% 
+  union(DOE_foia_log_2018) %>% 
+  union(DOE_foia_log_2019)
+"
+"2","Error in union_data_frame(x, y) : 
+  not compatible: Incompatible type for column `Date_Agency_Response`: x character, y numeric
+"

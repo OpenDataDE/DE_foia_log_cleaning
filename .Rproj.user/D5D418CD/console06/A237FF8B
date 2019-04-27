@@ -1,0 +1,10 @@
+]0;~/Dropbox/00 - Open Data DE/01 - Projects/FOIA Repository[?1034hRyans-MacBook-Pro:FOIA Repository ryanharrington$ [KRyans-MacBook-Pro:FOIA  Repository ryanharringgton$ [K[A[ARyans-MacBook-Pro:FOIA Repository ryanharrington$ git ini t
+Initialized empty Git repository in /Users/ryanharrington/Dropbox/00 - Open Data DE/01 - Projects/FOIA Repository/.git/
+]0;~/Dropbox/00 - Open Data DE/01 - Projects/FOIA RepositoryRyans-MacBook-Pro:FOIA Repository ryanharrington$ git rem ote add origin https://github.com/rharrington31/DE_foia_l og_cleaning.git
+]0;~/Dropbox/00 - Open Data DE/01 - Projects/FOIA RepositoryRyans-MacBook-Pro:FOIA Repository ryanharrington$ git pus h -u origin master
+error: src refspec master does not match any.
+[31merror: failed to push some refs to 'https://github.com/rharrington31/DE_foia_log_cleaning.git'
+[m]0;~/Dropbox/00 - Open Data DE/01 - Projects/FOIA RepositoryRyans-MacBook-Pro:FOIA Repository ryanharrington$ git pus h origin master
+error: src refspec master does not match any.
+[31merror: failed to push some refs to 'https://github.com/rharrington31/DE_foia_log_cleaning.git'
+[m]0;~/Dropbox/00 - Open Data DE/01 - Projects/FOIA RepositoryRyans-MacBook-Pro:FOIA Repository ryanharrington$ git add  .

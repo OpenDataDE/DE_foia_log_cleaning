@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1556376170728.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "18BE7C12",
+    "lastKnownWriteTime" : 1555774997,
+    "last_content_update" : 1555774997,
+    "path" : "~/Dropbox/00 - Open Data DE/01 - Projects/FOIA Repository/Markdown/DOE_FOIA_Log_Cleaning.Rmd",
+    "project_path" : "Markdown/DOE_FOIA_Log_Cleaning.Rmd",
+    "properties" : {
+        "cursorPosition" : "84,0",
+        "docOutlineSize" : "156",
+        "docOutlineVisible" : "0",
+        "last_setup_crc32" : "8E9C9917bb338d19",
+        "scrollLine" : "69",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

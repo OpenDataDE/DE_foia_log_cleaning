@@ -1,0 +1,6 @@
+"0","DOE_FOIA_logs <- map(files, ~import_file(path = ""Data/Department of Education"",
+                                         file = .x,
+                                         var_name_stem = ""DOE_foia_log""))
+"
+"2","Error in DOE_dfs$Names[i] <- var_name : object 'DOE_dfs' not found
+"
