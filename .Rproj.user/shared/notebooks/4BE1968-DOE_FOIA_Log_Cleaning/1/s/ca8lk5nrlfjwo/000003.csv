@@ -1,3 +1,0 @@
-"0","DOE_foia_log_2019 <-"
-"0","  DOE_foia_log_2019 %>% "
-"0","  mutate(Date_Agency_Response = as.Date(Date_Agency_Response))"

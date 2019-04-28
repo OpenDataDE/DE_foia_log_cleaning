@@ -1,4 +1,0 @@
-"0","# Remove the Documents field"
-"0","foia_log_OMB <- "
-"0","  foia_log_OMB %>%                            # Use the data frame called foia_log_OMB AND THEN"
-"0","  select(-Documents)                          # select all columns EXCEPT for Documents"
