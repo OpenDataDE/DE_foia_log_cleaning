@@ -460,8 +460,8 @@ foia_log_OMB <-
 
 ```{r}
 
-# Write to a .csv in the Data_Transformations folder
-write_csv(foia_log_OMB, here("Data_Transformations", "OMB_FOIA_log.csv"))
+# Write to a .csv in the Data_Cleaned folder
+write_csv(foia_log_OMB, here("Data_Cleaned", "OMB_FOIA_log.csv"))
 
 ```
 
