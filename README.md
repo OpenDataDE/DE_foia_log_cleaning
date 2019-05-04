@@ -18,4 +18,4 @@ In order to perform future analysis on any of the FOIA logs, any of these small 
 
 # Getting Involved
 
-To see the current status of the different cleaning projects, head over to the [projects](https://github.com/OpenDataDE/DE_foia_log_cleaning/projects) board.
+To see the current status of the different cleaning projects, head over to the [projects](https://github.com/OpenDataDE/DE_foia_log_cleaning/projects) board. You can see the overall status of the project by heading to the [`Overall`](https://github.com/OpenDataDE/DE_foia_log_cleaning/projects/25) project board. Project boards for each agency or division are linked from there.
