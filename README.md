@@ -1,3 +1,5 @@
+# Overview
+
 The Freedom of Information Act (FOIA) allows constituents to gain access to the data that their government creates. Gaining access to this data comes through a process called a "FOIA request". Making a FOIA request does not guarantee that the request will be fulfilled. There are many reasons that a request may be denied - from the data being unavailable to the data falling under executive privilege.
 
 In Delaware, every government agency is required by law to keep a FOIA log. This log is a historical record of all FOIA requests that have been made to that agency. In an effort to better understand what data was commonly being FOIA requested, Open Data Delaware made a FOIA request to as many agencies as possible for their FOIA logs. Most of these FOIA-log-FOIA-requests were made on February 9, 2019 by David Ginzberg.
@@ -13,3 +15,7 @@ In addition to the many flavors of FOIA log storage we received, most of the FOI
 * Directors office
 
 In order to perform future analysis on any of the FOIA logs, any of these small errors must be accounted for and corrected.
+
+# Getting Involved
+
+To see the current status of the different cleaning projects, head over to the [projects](https://github.com/OpenDataDE/DE_foia_log_cleaning/projects) board.
